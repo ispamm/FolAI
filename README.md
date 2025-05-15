@@ -1,2 +1,2 @@
-# Stable-V2A website
-Branch for the Stable-V2A website.
+# FolAI website
+Branch for the FolAI website.
